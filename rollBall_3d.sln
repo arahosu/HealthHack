@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rollBall_3d", "rollBall_3d.csproj", "{190EB4FA-7980-64B0-0E5A-D203078FA770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rollBall_3d.Plugins", "rollBall_3d.Plugins.csproj", "{22BEC312-5FFE-AD6D-405E-BBA2EFC4E359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rollBall_3d.Editor.Plugins", "rollBall_3d.Editor.Plugins.csproj", "{151A147D-C0DC-544D-33E1-B087BC60D02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190EB4FA-7980-64B0-0E5A-D203078FA770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190EB4FA-7980-64B0-0E5A-D203078FA770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190EB4FA-7980-64B0-0E5A-D203078FA770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190EB4FA-7980-64B0-0E5A-D203078FA770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BEC312-5FFE-AD6D-405E-BBA2EFC4E359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BEC312-5FFE-AD6D-405E-BBA2EFC4E359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BEC312-5FFE-AD6D-405E-BBA2EFC4E359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BEC312-5FFE-AD6D-405E-BBA2EFC4E359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151A147D-C0DC-544D-33E1-B087BC60D02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151A147D-C0DC-544D-33E1-B087BC60D02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151A147D-C0DC-544D-33E1-B087BC60D02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151A147D-C0DC-544D-33E1-B087BC60D02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
